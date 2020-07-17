@@ -1,2 +1,2 @@
-# Wall-Thickness
-This simulation displays a bullet hitting a wall to identify the thickness of a wall.
+# p5.play-boilerplate
+Boiler plate for p5.play
